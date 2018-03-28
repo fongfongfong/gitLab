@@ -26,10 +26,6 @@ void main()
     printf("Enter your Lottery Number (0 to end): "); 
     scanf("%d", &YourLotteryNo); 
   }
-<<<<<<< HEAD
   printf("GOODBYE maaaa");
-=======
-  printf("GOODBYE na");
->>>>>>> 70733a003b1f6c7396c39eb949d30137994e64f7
   scanf("%d", &i);
 }
